@@ -1,4 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+test333 rejected
+test333
+=======
+test222 rejected
+>>>>>>> feature/57487180/test222
+>>>>>>> release/0.1.8
 test222
 =======
 test111 rejected
