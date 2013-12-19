@@ -1,10 +1,8 @@
+www
 qqqq
 cfzf
 new
 new info 
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
 test555 rejected
 >>>>>>> feature/57632518/test555
 test555 release 
