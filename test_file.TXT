@@ -1,3 +1,4 @@
+ttt
 rrr
 www
 qqqq
@@ -11,12 +12,7 @@ test555 release
 test444 rejected
 >>>>>>> feature/57632516/test444
 test444
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-test333 rejected
-test333
-=======
+
 test222 rejected
 >>>>>>> feature/57487180/test222
 >>>>>>> release/0.1.8
