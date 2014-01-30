@@ -1,3 +1,5 @@
+bug
+new story
 ttt
 rrr
 www
